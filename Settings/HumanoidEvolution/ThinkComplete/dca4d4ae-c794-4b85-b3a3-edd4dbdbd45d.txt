@@ -1,0 +1,3 @@
+﻿Name	DisplayName	Scene	Target	Emotion	OtherWorld	DownMod
+Name	显示名称 	认知	理智	感知	万界天宫
+dca4d4ae-c794-4b85-b3a3-edd4dbdbd45d	新灵智1	SmellRain	Sculpture	SlightlyHappy	1	0	

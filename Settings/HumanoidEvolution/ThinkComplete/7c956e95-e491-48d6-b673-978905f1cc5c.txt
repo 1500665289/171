@@ -1,0 +1,3 @@
+﻿Name	DisplayName	Scene	Target	Emotion	OtherWorld	DownMod
+Name	显示名称 	认知	理智	感知	万界天宫
+7c956e95-e491-48d6-b673-978905f1cc5c	新灵智4	Memory	Autumn	Peace	1	0	
